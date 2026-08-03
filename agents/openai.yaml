@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO 内容机会引擎"
+  short_description: "把搜索、转化和技术信号转成页面内容任务、内链建议与实验台账"
+  default_prompt: "Use $seo-content-opportunity-engine to turn SEO data into prioritized page briefs, internal links, and experiments."
