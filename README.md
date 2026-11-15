@@ -1,6 +1,8 @@
 # SEO 内容机会引擎 Skill
 
-[虎皮叔叔 · hupishushu.com](https://hupishushu.com/) · [项目介绍](https://hupishushu.com/projects/seo-content-opportunity-engine/) · [中文使用指南](https://hupishushu.com/skills/seo-content-opportunity-engine/)
+<!-- hupishushu:links:start -->
+[虎皮叔叔 · hupishushu.com](https://hupishushu.com/) · [项目介绍](https://hupishushu.com/projects/seo-content-opportunity-engine/) · [使用指南](https://hupishushu.com/skills/seo-content-opportunity-engine/)
+<!-- hupishushu:links:end -->
 
 `seo-content-opportunity-engine` 把 GSC、GA4 和技术巡检结果转成页面级内容任务。它帮助你判断一个页面应该更新、新建、合并区分、保留还是继续观察，并输出页面 Brief、内链建议和 14/28 天实验台账。
 
